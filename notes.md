@@ -19,3 +19,4 @@
 
 ## **Other Things**
 * Need to find a sufficiently large dataset with metadata and some mp3s
+* Need to decide on depth of implementation (whether to use libraries such as numpy etc. to simplify algorithms)
